@@ -1,6 +1,9 @@
 # Soal Latihan Praktikum
 
 ## 1. Departemen Apa Saja Yang Terlibat Dalam Tiap-tiap Project.
+Query ini digunakan untuk mengetahui departemen apa saja yang terlibat dalam setiap project.
+
+
 
 ```
 SELECT Project.nama AS Project, GROUP_CONCAT(Departemen.nama) AS Departemen
