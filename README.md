@@ -1,4 +1,12 @@
 # Soal Latihan Praktikum
+Buat query untuk menampilkan:
+1. Departemen apa saja yang terlibat dalam tiap-tiap project
+2. Jumlah karyawan tiap departemen yang bekerja pada tiap-tiap
+project
+3. Ada berapa project yang sedang dikerjakan oleh departemen RnD?
+(ket: project berjalan adalah yang statusnya 1)
+4. Berapa banyak project yang sedang dikerjakan oleh Ari?
+5. Siapa saja yang mengerjakan projcet B?
 
 ## 1. Departemen Apa Saja Yang Terlibat Dalam Tiap-tiap Project.
 Query ini digunakan untuk mengetahui departemen apa saja yang terlibat dalam setiap project.
