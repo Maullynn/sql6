@@ -70,3 +70,5 @@ FROM Project_detail
 INNER JOIN Karyawan ON Project_detail.nik = Karyawan.nik
 WHERE Project_detail.id_proj IN (SELECT id_proj FROM Project WHERE nama = 'B');
 ```
+
+## Dokumentasi ini memberikan penjelasan singkat mengenai setiap query dan output yang dihasilkan. Query-query tersebut dapat digunakan untuk berbagai analisis terkait data Project, Departemen, dan Karyawan.
